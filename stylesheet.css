@@ -1,0 +1,80 @@
+head {
+	position: absolute;
+
+}
+.centered {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -280px;
+}
+.center-below {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: 50px;
+	margin-left: -100px;
+}
+.text-box {
+	width: 16em;
+	float: left;
+	text-align: right;
+	margin-left: .5em;
+
+}
+.google-search {
+	margin-left: 0em;
+	margin-top: .5em;
+}
+.feeling-lucky {
+	margin-left: 1em;
+	margin-top: .5em;
+}
+#top-navbar {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#top-navbar {
+	position: absolute;
+	right: 0;
+	margin-right: 60px;
+}
+.top-navbar {
+	float: left;
+}
+.top-link {
+	display: block;
+	width: 60px;
+}
+.sign-in {
+	position: absolute;
+	right: 0;
+	margin-right: 15px;
+}
+#navbar-bottom {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.navbar-bottom {
+	float: left;
+}
+.bottom-link {
+	display: block;
+	width: 65px;
+	margin-right: 5px;
+}
+#advertising {
+	margin-right: 15px;
+}
+#about {
+	margin-right: 15px;
+}
+a {
+	text-decoration: none;
+}
